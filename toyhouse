@@ -1,0 +1,38 @@
+@import '0/645/o6ahwB/css-animate-default';
+body{background-image:url("INSERT BACKGROUND IMAGE HERE");
+ }
+
+.header { background-color: #000000 ; color: #FFFFFF; }
+
+.footer { background-color: #585858 ; color:#ffffff; }
+
+.sidebar { background-color: #585858 ; color:#000000; }  << Play around with colors for your sidebar :)
+
+#sidebar .header { background-color: #000000; color:#ffffff; ;}
+
+#sidebar .subheader { background-color: #000000; color:#00000; }
+
+#sidebar .subheader a { background-color: #000000; color:#000000; }
+a { color:#000000; }
+
+a:hover { color:#000000; }
+
+a:active { color:#000000; }
+
+body a { color:#383838; }
+
+body a:hover { color:#ffffff; }
+
+body a:active { color:#f0f0f0; }  << Play around with colors for your sidebar :)
+
+.header a { color:#585858; }
+
+.header a:hover { color:#ffffff; }
+
+.header a:active { color:#000000; }
+
+.footer a { color:#000000; }
+
+.footer a:hover { color:#000000; }
+
+.footer a:active { color:#000000; }
